@@ -1,0 +1,4 @@
+# this is a sample
+def add(number):
+  output = number + 1
+  return output
